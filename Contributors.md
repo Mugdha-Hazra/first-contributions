@@ -12,6 +12,7 @@
 - [Arash-11](https://github.com/Arash-11)
 - Hafed omar
   Adam Blaylock
+- [Mugdha Hazra](https://github.com/Mugdha-Hazra)
 - [Sai Priya](https://github.com/Saipriyavadisina)
 - Daniel Danaee
 - Roohi Sharma
